@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "//leoschofield.github.io/static/css/main.073c9b0a.css",
-    "main.js": "//leoschofield.github.io/static/js/main.26127bce.js",
-    "static/js/787.28cb0dcd.chunk.js": "//leoschofield.github.io/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "//leoschofield.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "//leoschofield.github.io/index.html",
-    "main.073c9b0a.css.map": "//leoschofield.github.io/static/css/main.073c9b0a.css.map",
-    "main.26127bce.js.map": "//leoschofield.github.io/static/js/main.26127bce.js.map",
-    "787.28cb0dcd.chunk.js.map": "//leoschofield.github.io/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.c88448c1.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.c88448c1.js.map": "/static/js/main.c88448c1.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.26127bce.js"
+    "static/js/main.c88448c1.js"
   ]
 }
